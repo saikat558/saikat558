@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saikat558
-- 👀 I’m interested in ...AIML
-- 🌱 I’m currently learning ... B.Tech in AIML
+- 👀 I’m interested in ...Cyber Security
+- 🌱 I’m currently learning ... B.Tech in CSE
 - 💞️ I’m looking to collaborate on ...Cyber security 
-- 📫 How to reach me ...DM on Instagram - @saikat_tanti
+- 📫 How to reach me ...DM on Instagram - @saikattanti1
 
 <!---
 saikat558/saikat558 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
